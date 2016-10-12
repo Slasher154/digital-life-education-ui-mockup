@@ -1,0 +1,22 @@
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+}
+.drivertext, .markettext, .trendtext, .techtext {
+      font-size: 30px;
+ }
+ .drivertext {
+ 	color: blue;
+ }
+ .markettext {
+ 	color: green;
+ }
+ .trendtext {
+ 	color: orange;
+ }
+ .techtext {
+ 	color: red;
+ }
+ textarea {
+ 	font-size: 20px
+ }
